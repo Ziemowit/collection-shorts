@@ -6,7 +6,7 @@
 
     <groupId>io.github.ziemowit</groupId>
     <artifactId>collection-shorts</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <name>collection-shorts</name>
 
     <description>Utility library to simplify performing operations on Java Collections</description>

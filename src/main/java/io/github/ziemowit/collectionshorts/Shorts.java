@@ -1,14 +1,3 @@
-/*
- *
- *  * Copyright (C) 2020-now Wayfarer Points LTD - All Rights Reserved
- *  * You may use, distribute and modify this code under the
- *  * terms of the Wayfarer Points Engine license.
- *  *
- *  * You should have received a copy of the Wayfarer Points Engine license
- *  * with this file. If not, please write to: info@wayfarerpoints.com
- *
- */
-
 package io.github.ziemowit.collectionshorts;
 
 import java.util.*;
